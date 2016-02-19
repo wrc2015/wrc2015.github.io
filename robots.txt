@@ -1,0 +1,10 @@
+Sitemap: http://wrc2015.rogaining.fi/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /bulletin-5-vanha.html
+Disallow: /pre-qualifying-conditions.html
